@@ -15,27 +15,10 @@
             height: 32px;
         }
     }
-    &__item{
-        ul{
-            list-style: none;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            li{
-                margin-right: 8px;
-                padding: 3px;
-                &:last-child{
-                    margin-right: 0;
-                }
-                a{
-                    text-decoration: none;
-                    text-transform: uppercase;
-                    &:hover{
-                        color: blue;
-                        font-weight: 600;
-                    }
-                }
-            }
-        }
+    &__button{
+        cursor: pointer;
+        background-color: transparent;
+        padding: 0 .5rem;
     }
+ 
 }

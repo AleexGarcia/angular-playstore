@@ -1,1 +1,6 @@
-<p>card works!</p>
+<a class="card">
+  <img [src]="[gameCover]" alt="" />
+  <app-card-label gameLabel="{{ gameLabel }}"></app-card-label>
+  <app-card-pricing gameType="{{ gameType }}" gamePrice="{{ gamePrice }}">
+  </app-card-pricing>
+</a>

@@ -1,0 +1,10 @@
+.card-label{
+    position: absolute;
+    bottom: 90px;
+    right: 0;
+    &__content{
+        padding: .5rem 2rem;
+        background-color: rgba(0, 0, 0, 0.85);
+        font-weight: 600;
+    }
+}

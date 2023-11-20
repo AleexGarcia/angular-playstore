@@ -1,0 +1,62 @@
+[
+  {
+    "gameCover": "/assets/mario-odyssey.jpg",
+    "gameType": "Nintendo Switch",
+    "gamePrice": "R$ 199,00",
+    "gameLabel": "Exclusivo"
+  },
+  {
+    "gameCover": "/assets/god-of-war.jpg",
+    "gameType": "PlayStation 4",
+    "gamePrice": "R$ 249,00",
+    "gameLabel": "Exclusivo"
+  },
+  {
+    "gameCover": "/assets/halo-infinite.jpg",
+    "gameType": "Xbox Series X",
+    "gamePrice": "R$ 299,00",
+    "gameLabel": "Exclusivo"
+  },
+  {
+    "gameCover": "/assets/zelda-breath-of-wild.jpg",
+    "gameType": "Nintendo Switch",
+    "gamePrice": "R$ 219,00",
+    "gameLabel": "Exclusivo"
+  },
+  {
+    "gameCover": "/assets/ghost-of-tsushima.jpg",
+    "gameType": "PlayStation 4",
+    "gamePrice": "R$ 229,00",
+    "gameLabel": "Exclusivo"
+  },
+  {
+    "gameCover": "/assets/forza-horizon-4.jpg",
+    "gameType": "Xbox One",
+    "gamePrice": "R$ 199,00",
+    "gameLabel": "Exclusivo"
+  },
+  {
+    "gameCover": "/assets/super-mario-3d-world.jpg",
+    "gameType": "Nintendo Switch",
+    "gamePrice": "R$ 179,00",
+    "gameLabel": "Exclusivo"
+  },
+  {
+    "gameCover": "/assets/cyberpunk-2077.jpg",
+    "gameType": "Multiplataforma",
+    "gamePrice": "R$ 259,00",
+    "gameLabel": "Multiplataforma"
+  },
+  {
+    "gameCover": "/assets/fifa-22.jpg",
+    "gameType": "Multiplataforma",
+    "gamePrice": "R$ 189,00",
+    "gameLabel": "Multiplataforma"
+  },
+  {
+    "gameCover": "/assets/the-last-of-us-part-2.jpg",
+    "gameType": "PlayStation 4",
+    "gamePrice": "R$ 249,00",
+    "gameLabel": "Não Exclusivo"
+  }
+]
